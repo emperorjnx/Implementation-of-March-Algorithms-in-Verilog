@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Apr 20 19:03:52 2021
+# Process ID: 6900
+# Current directory: C:/Users/rajat/Downloads/Memory Design Project/MDT
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7416 C:\Users\rajat\Downloads\Memory Design Project\MDT\MDT.xpr
+# Log file: C:/Users/rajat/Downloads/Memory Design Project/MDT/vivado.log
+# Journal file: C:/Users/rajat/Downloads/Memory Design Project/MDT\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/rajat/Downloads/Memory Design Project/MDT/MDT.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2019.2/data/ip'.
+open_project: Time (s): cpu = 00:00:12 ; elapsed = 00:00:05 . Memory (MB): peak = 910.191 ; gain = 243.641
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Apr 20 19:09:31 2021...
