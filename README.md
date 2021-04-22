@@ -4,4 +4,4 @@ This repository contains the code files and the report for our Memory Design Pro
 
 Our project was based on Implementation of March Algorithms for Memory Testing.
 
-Our code is based on verilog and We used Xilinx Vivado for this purpose.
+Our code is based on Verilog and We used Xilinx Vivado 2019.2 for this purpose.
